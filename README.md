@@ -1,4 +1,4 @@
-# Fix-External-Monitor-Compatibility-With-Mac
+# Fix External Monitor Compatibility With Mac
 
 I faced a problem when trying to use my MacBook Pro (with Apple Silicon M2) with a Dell monitor, model S2421N. The problem happened that, even though my Mac recognized the external monitor, using an adapter to connect to the monitor (a third-party adapter, not the official Apple one), the monitor did not provide a video signal and, looking directly at System Settings > Displays on the Mac, the monitor was recognized but only with a fixed 25 Hz refresh rate (the monitor has a refresh rate of up to 75 Hz).
 
@@ -59,7 +59,7 @@ Once you have filled the variables and uncommented the command, save the file an
 
 ### 3. Running the Script
 
-To run the Script you have two super easy ways
+To run the Script you have two super easy ways:
 
 ### Directly through the Terminal
 
