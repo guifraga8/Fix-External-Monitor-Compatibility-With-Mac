@@ -31,7 +31,7 @@ Still in the Terminal, execute the following command:
 
 1. Clone this repository on your Mac
 
-2. Move the file `fix.monitor.sh` wherever you think is ideal. For the purpose of following this guide, I will consider it for the Desktop (I believe it is more practical this way)
+2. Move the file `fix-monitor.sh` wherever you think is ideal. For the purpose of following this guide, I will consider it for the Desktop (I believe it is more practical this way)
 
 3. Now that you have moved the file to the desired folder (in this case, on the Desktop), you need to give the Script execution permission
 
