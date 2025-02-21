@@ -37,9 +37,9 @@ Still in the Terminal, execute the following command:
 
 Run the command below to give the Script execution permission:
 
-`chmod +x ~/Desktop/fix.monitor.sh`
+`chmod +x ~/Desktop/fix-monitor.sh`
 
-3. Fill the variables
+4. Fill the variables
 
 In the script you will have two variables, namely:
 
@@ -49,7 +49,7 @@ In my case, my monitor is FULL HD, 1920x1080, which was my desired resolution an
 
 Fill in the values ​​of these variables with the maximum desired resolution of your monitor and its maximum refresh rate, respectively. Use a text editor of your choice for this, nothing too complicated.
 
-4. Uncomment the line below, which is the displayplacer command execution code. This will be the command that will execute and apply the configuration accordingly.
+5. Uncomment the line below, which is the displayplacer command execution code. This will be the command that will execute and apply the configuration accordingly
 
 `# displayplacer "id:$external_monitor_id res:$best_resolution_of_your_monitor hz:$max_refresh_rate_of_your_monitor"`
 
